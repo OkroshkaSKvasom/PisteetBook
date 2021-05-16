@@ -1,0 +1,16 @@
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\bin\Debug\PisteetShop.exe.config
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\bin\Debug\PisteetShop.exe
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\bin\Debug\PisteetShop.pdb
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.csprojAssemblyReference.cache
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.DashBoard.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Login.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Books.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Splash.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Properties.Resources.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Users.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.csproj.GenerateResource.cache
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.csproj.CoreCompileInputs.cache
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.exe
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.pdb
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.Billing.resources
+C:\Users\maygw\source\repos\PisteetShop\PisteetShop\obj\Debug\PisteetShop.AdminLogin.resources
